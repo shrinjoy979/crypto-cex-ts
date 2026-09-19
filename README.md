@@ -11,7 +11,7 @@ A centralized crypto exchange backend built with TypeScript, Express, and Bun. S
 
 ## Getting Started
 
-Install dependencies:
+Install dependencies
 
 ```bash
 bun install
