@@ -122,7 +122,7 @@ bun test src/index.test.ts
 
 ## Orderbook
 
-The `Ordebook` class handles limit order matching for supported assets (currently `sol`). When a bid or ask is placed:
+The `Ordebook` class handles limit order matching for supported assets (currently `sol`). When a bid or ask is placed
 
 1. The orderbook attempts to match against existing orders at compatible prices.
 2. Fills update buyer/seller balances immediately.
