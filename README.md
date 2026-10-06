@@ -126,4 +126,3 @@ The `Ordebook` class handles limit order matching for supported assets (currentl
 
 1. The orderbook attempts to match against existing orders at compatible prices.
 2. Fills update buyer/seller balances immediately.
-3. Unfilled quantity is added to the orderbook and locks the corresponding funds.
